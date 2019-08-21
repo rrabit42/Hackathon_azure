@@ -1,0 +1,10 @@
+{% extends "accounts/layout.html" %}
+
+{% block content %}
+    <div class="container">
+        <h2>{{ user.username }}'s Profile</h2>
+
+         <h3>Email</h3>
+        {{ user.email|default:"&dash;" }}
+    </div>
+{% endblock %}
