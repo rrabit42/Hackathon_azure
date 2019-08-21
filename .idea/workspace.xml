@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cecd2f13-e83c-4a10-9c1d-56f50b8a86c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/askdjango/templates/root.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reqs/common.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reqs/dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reqs/prod.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/askdjango/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/askdjango/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/askdjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/askdjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\azure\askdjango\askdjango" />
       <recent name="C:\Dev\azure\askdjango\settings" />
     </key>
   </component>
@@ -93,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566387548839</updated>
-      <workItem from="1566387561265" duration="1823000" />
+      <workItem from="1566387561265" duration="2598000" />
     </task>
     <servers />
   </component>
